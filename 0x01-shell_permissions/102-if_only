@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --front=guillaume betty hello
+chown --front=betty guillaume  hello
